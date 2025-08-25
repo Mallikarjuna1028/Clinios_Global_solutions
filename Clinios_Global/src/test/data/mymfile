@@ -1,0 +1,7 @@
+
+
+
+Gender=//div[@id='react-select-2-placeholder']
+OTCR_RX=//div[@id='react-select-3-placeholder']
+Pharmalogicname=//div[@id='react-select-4-placeholder']
+BrandName=//div[@id='react-select-5-placeholder']
